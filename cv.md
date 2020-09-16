@@ -12,3 +12,8 @@ I have no experience in Front-End Development, my work is forensic expert in pol
 That's why i want to change my job and start to create.  
 I'm ambitious, hardworking and comunicative
 
+## Skills ##  
+◾◾◽◽◽ HTML  
+◾◾◽◽◽ CSS  
+◾◾◽◽◽ JavaScript  
+◾◾◾◽◽ C++  
